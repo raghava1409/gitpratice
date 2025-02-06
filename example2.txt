@@ -1,0 +1,10 @@
+maternode:
+   api server
+   controller manager
+   schedular
+   etcd
+server types:
+   clusterIP
+   nodeport
+   loadbalancer
+   externalname   
