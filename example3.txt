@@ -1,0 +1,8 @@
+courses:
+    devops:
+       linux
+       kubernetes
+       git
+       docker
+       teraform
+       
